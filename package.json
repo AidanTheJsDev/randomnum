@@ -1,5 +1,5 @@
 {
-  "name": "randomnum",
+  "name": "@turtle-pog/randomnum",
   "version": "1.0.0",
   "description": "Randomly generate a number between 2 numbers",
   "main": "index.js",
