@@ -1,0 +1,23 @@
+{
+  "name": "randnum",
+  "version": "1.0.0",
+  "description": "Randomly generate a number between 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PLACEHOLDER"
+  },
+  "keywords": [
+    "rand",
+    "random",
+    "number"
+  ],
+  "author": "AidanTheDev",
+  "license": "ISC",
+  "devDependencies": {
+    "readline": "^1.3.0"
+  }
+}
