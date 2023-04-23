@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to randomnum 👋</h1>
+<h1 align="center">Welcome to randomNum 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/randomnum" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/randomnum.svg">
@@ -18,13 +18,13 @@
 ## Install
 
 ```sh
-npm install randomnum
+npm install @turtle-pog/randomnum
 ```
 
 ## Usage
 
 ```javascript
-const randNum = require('randomnum')
+const randNum = require('@turtle-pog/randomnum')
 let settings = {
     minimum: 1,
     maximum: 10,
