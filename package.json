@@ -1,5 +1,5 @@
 {
-  "name": "randnum",
+  "name": "randomnum",
   "version": "1.0.0",
   "description": "Randomly generate a number between 2 numbers",
   "main": "index.js",
@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "PLACEHOLDER"
+    "url": "https://github.com/Aidan-The-Dev/randomnum"
   },
   "keywords": [
     "rand",
     "random",
-    "number"
+    "number",
+    "randNum",
+    "AidanTheDev"
   ],
   "author": "AidanTheDev",
   "license": "ISC",
