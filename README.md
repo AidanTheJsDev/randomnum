@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to randomNum 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/randomnum" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/randomnum.svg">
   </a>
   <a href="temp" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
